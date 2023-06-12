@@ -12,7 +12,10 @@ const team1=[];
 for(let x=0;x<players.length;x++){
 	team1[x]=players[x];
 }
-const cap1= person;
+for(let x=0;x<person.length;x++){
+	const cap1[x]= person[x];
+}
+
 // console.log(team);
 // console.log(team1);
 // console.log(cap1);
