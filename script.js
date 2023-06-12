@@ -4,11 +4,13 @@ const person = {
   name: "John Doe",
   age: 80,
 };
+const team[];
 int(let i=0;i<players.length;i++){
-	const team[i]=players[i];
+	team[i]=players[i];
 }
+const team1[];
 int(let i=0;i<players.length;i++){
-	const team1[i]=players[i];
+	team1[i]=players[i];
 }
 const cap1= person;
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
