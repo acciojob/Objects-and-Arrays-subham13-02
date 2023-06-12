@@ -6,7 +6,7 @@ const person = {
 };
 // const team=[];
 // for(let i=0;i<players.length;i++){
-	team[i]=players[i];
+	team=players;
 // }
 const team1=[];
 for(let x=0;x<players.length;x++){
