@@ -4,10 +4,10 @@ const person = {
   name: "John Doe",
   age: 80,
 };
-const team=[];
-for(let i=0;i<players.length;i++){
+// const team=[];
+// for(let i=0;i<players.length;i++){
 	team[i]=players[i];
-}
+// }
 const team1=[];
 for(let x=0;x<players.length;x++){
 	team1[x]=players[x];
